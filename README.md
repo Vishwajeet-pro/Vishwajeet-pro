@@ -73,7 +73,6 @@ I'm passionate about building scalable, robust applications with a focus on **Ja
 |---------|-------------|------|
 | **Text-to-imoji** | Convert text messages to emojis | [View](https://github.com/Vishwajeet-pro/Text-to-imoji) |
 | **Akash-s-site** | Portfolio & personal showcase website | [View](https://github.com/Vishwajeet-pro/Akash-s-site) |
-| **Happyy_Birthday_Shivangi** | Creative birthday celebration website | [View](https://github.com/Vishwajeet-pro/Happyy_Birthday_Shivangi) |
 | **HomeWarmingDeepakChauhan** | Event & celebration webpage | [View](https://github.com/Vishwajeet-pro/HomeWarmingDeepakChauhan) |
 
 ---
